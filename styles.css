@@ -1,0 +1,57 @@
+body{
+    font-family:"Sedan", serif;
+    background-color:white;
+    display:flex;
+    width:400px;
+    height:100%;
+    margin:auto;
+}
+
+.MainHeader {
+    background-color:white;
+    color:black;
+}
+
+.wrapper{
+    background-color:darkgray;
+    color:white;
+    padding:5px;
+}
+
+.wrapper p{
+    font-size:medium;
+    padding:5px;
+}
+
+.leftCaption{
+    float:left;
+}
+
+.date{
+    float:right;
+}
+
+img{
+    width:400px;
+}   
+
+.post-1 {
+    background-color:white;
+    color:black;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.post-2 {
+    background-color:white;
+    color:black;
+    margin-bottom: 50px;
+}
+.post-3 {
+    background-color:white;
+    color:black;
+    margin-bottom: 50px;
+}
+.post-4 {
+    background-color:white;
+    color:black;
+}
